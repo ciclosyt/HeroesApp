@@ -40,7 +40,7 @@ ng serve -o
 Descargamos la DB del Siguiente Repo:
 
 ```
-
+https://github.com/ciclosyt/Db-heroes
 ```
 
 **paso 5:**
