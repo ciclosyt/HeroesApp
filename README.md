@@ -1,41 +1,56 @@
-#�Heroes 
 
 ![heroes](src/assets/heroes-dc.jpg)
 
 
 
 
-Application To Find Your Favorite Gifs
+# Una Aplicacion Con Poderes Extraordinarios
 
 
 
-### How to Use 
+### Como Se Usa
 
-**Step 1:**
+**paso 1:**
 
-Download or clone this repo by using the link below:
+Descarga Este Repositorio:
 
 ```
-https://github.com/ciclosyt/GifsApp
+https://github.com/ciclosyt/HeroeApp
 ```
 
-**Step 2:**
+**paso 2:**
 
-Go to project root and execute the following command in console to get the required dependencies: 
+ir a La Carpeta Del Proyecto y Ejecutar los Modulos de Node: 
 
 ``` 
 npm install
 ```
 
 
-**Step 3:**
+**paso 3:**
 
-Run Your Server:
+Arranca el Servidor:
 
 ```
 ng serve -o
 ```
 
-**Step 4:**
+**paso 4:**
 
-Enjoy!
+Descargamos la DB del Siguiente Repo:
+
+```
+
+```
+
+**paso 5:**
+
+Arrancamos Nuestra DB desde la Carpeta y Ejecutamos:
+
+```
+json-server --watch db.json
+```
+
+**paso 6:**
+
+Disfruta!!!
