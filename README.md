@@ -1,27 +1,41 @@
-# HeroesApp
+#�Heroes 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+![heroes](src/assets/heroes-dc.jpg)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Application To Find Your Favorite Gifs
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+### How to Use 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Step 1:**
 
-## Running end-to-end tests
+Download or clone this repo by using the link below:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+https://github.com/ciclosyt/GifsApp
+```
 
-## Further help
+**Step 2:**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Go to project root and execute the following command in console to get the required dependencies: 
+
+``` 
+npm install
+```
+
+
+**Step 3:**
+
+Run Your Server:
+
+```
+ng serve -o
+```
+
+**Step 4:**
+
+Enjoy!
